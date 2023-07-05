@@ -6,7 +6,7 @@ body:
   - type: input
     id: reponame
     attributes:
-      tabel: Repository Name
+      label: Repository Name
       description: Your Repository Name
       placeholder: repo-name
     validations:
@@ -14,7 +14,7 @@ body:
   - type: input
     id: users
     attributes:
-      tabel: Users
+      label: Users
       description: Your User Name
       placeholder: provide user
     validations:
