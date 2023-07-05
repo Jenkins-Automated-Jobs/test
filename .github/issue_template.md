@@ -3,19 +3,19 @@ description: Repo Edit
 title: "[Repo Edit Forn]:"
 labels: ["form", "request", "edit"]
 body:
-  type: input
-  id: reponame
-  attributes:
-    tabel: Repository Name
-    description: Your Repository Name
-    placeholder: repo-name
-  validations:
-    required: true
-  type: input
-  id: users
-  attributes:
-    tabel: Users
-    description: Your User Name
-    placeholder: provide user
-  validations:
-    required: true
+  - type: input
+    id: reponame
+    attributes:
+      tabel: Repository Name
+      description: Your Repository Name
+      placeholder: repo-name
+    validations:
+      required: true
+  - type: input
+    id: users
+    attributes:
+      tabel: Users
+      description: Your User Name
+      placeholder: provide user
+    validations:
+      required: true
