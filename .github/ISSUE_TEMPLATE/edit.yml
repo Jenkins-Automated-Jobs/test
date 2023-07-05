@@ -9,5 +9,5 @@ body:
     tabel: Repository Name
     description: Your Repository Name
     placeholder: repo-name
-  validations
+  validations:
     required: true
