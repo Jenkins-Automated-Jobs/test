@@ -8,3 +8,5 @@ Value: bot-ux
 
 Name: OS
 Value: Linux
+
+Windows
